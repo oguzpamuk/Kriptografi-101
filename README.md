@@ -4,4 +4,5 @@ Temel Kriptografik çalışmaları içermektedir. Amacı yeni başlayanlara yard
 
 #### Hash Fonksiyonları
 - Md5
+- Sha1
 
